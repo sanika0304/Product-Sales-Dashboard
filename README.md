@@ -42,7 +42,7 @@ Built for data-driven decision-making, the dashboard combines various visualizat
 * Custom color themes and formatting
 
 Example:
-DashBoard Preview: ()
+DashBoard Preview: (https://github.com/sanika0304/Product-Sales-Dashboard/blob/main/Sales%20Dashboard.png)
 
 
 
